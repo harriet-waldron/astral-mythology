@@ -1,0 +1,38 @@
+To Do 
+
+Full app
+(Basic outline)
+Figure out how to use the stellarium content
+Learn about APIs
+Build a structure that can showcase basic content
+Figure out how to link it to my own data
+Build a database of stars w myths
+Customise image so important stars show up
+Make highlighted stars tap-able + display content
+Customise with my own styling
+Build database, once enough data, then
+Make sky highlight different stars based on culture
+Look at the sky from different locations
+Look at a standard sky from different seasons
+
+
+Todo
+
+Before I know anything, to practice my EDA skills
+
+Build a basic web app that displays the stars of greek mythology
+Set up w package 
+set up file system
+build a visible layout with lorem ipsum
+
+
+Download appropriate modules for react workflow
+Base off worldwide routing
+
+
+Build a database of info to show on the site // start with a json
+Make CSS w media queries, build mobile first
+(practice react, database, routes) (how do you link a db with react work?) 
+I assume you just do react like a hbs setup?
+
+

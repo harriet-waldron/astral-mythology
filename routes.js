@@ -1,11 +1,11 @@
-const express = require('express')
+// const express = require('express')
 
-const router = express.Router()
+// const router = express.Router()
 
 
-router.get('/', (req, res) => {
-  res.send('Hello?')
-})
+// router.get('/', (req, res) => {
+//   res.send('Hello?')
+// })
 
-//Exports
-module.exports = router
+// //Exports
+// module.exports = router
