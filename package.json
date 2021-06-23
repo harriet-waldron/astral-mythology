@@ -2,12 +2,13 @@
   "name": "astral-mythology",
   "version": "1.0.0",
   "description": "Project to build a star map that displays cultural significance and mythology behind the stars in the sky. First build, it will take some time.",
-  "main": "index.js",
+  "main": "server/index.js",
   "dependencies": {
     "babel": "^6.23.0",
     "express": "^4.17.1",
     "knex": "^0.95.6",
-    "node": "^16.1.0"
+    "node": "^16.1.0",
+    "superagent": "^6.1.0"
   },
   "devDependencies": {
     "@babel/core": "^7.14.6",
@@ -30,7 +31,8 @@
     "presets": [
       "@babel/preset-env",
       "@babel/preset-react"
-    ]},
+    ]
+  },
   "scripts": {
     "start": "run-p webpack server",
     "dev": "run-p client server",
