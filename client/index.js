@@ -8,7 +8,7 @@ document.addEventListener ('DOMContentLoaded', () => {
   ReactDOM.render(
   <Router>
     <App />
-    <Nav />
+    {/* <Nav /> */}
   </Router>,
   document.getElementById('app')
   )

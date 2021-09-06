@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://astral-mythology/./client/styles/index.scss"],"names":[],"mappings":"AAAA;EACE;EACA;AACF,C","file":"styles.css","sourcesContent":[".app {\n  background-color: rgb(253, 231, 204);\n  color: darkblue;\n}"],"sourceRoot":""}

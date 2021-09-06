@@ -1,7 +1,12 @@
-const server = require('./server.js')
+// const path = require('path')
 
-const port = process.env.PORT || 3000
+// const envPath = path.join(__dirname, '.env')
+// require('dotenv').config({ path: envPath })
 
-server.listen(port, () => {
-  console.log('Listening on port ', port)
+const server = require('./server')
+
+const PORT = process.env.PORT || 3000
+
+server.listen(PORT, () => {
+  console.log('Server listening on port', PORT)
 })
